@@ -1,0 +1,4 @@
+/db/hanami_error_development
+/db/hanami_error_test
+/public/assets*
+/tmp
